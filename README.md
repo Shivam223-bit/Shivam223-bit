@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shivam223-bit
+- 👀 I’m interested in business analysis
+- 🌱 I’m currently learning power BI
+- 💞️ I’m looking to collaborate on project related to BI
